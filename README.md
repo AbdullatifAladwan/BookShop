@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Book
 Book Shop
 =======
