@@ -25,20 +25,32 @@ Features
 # Technologies Used
 
 - Backend: Laravel PHP framework
-- Frontend: HTML, CSS, jQuery, Blade templating engine
-- Database: MySQL or other supported database by Laravel
+- Frontend: HTML, CSS, js, jQuery, Blade templating engine
+- Database: MySQL 
 - Payment Integration: Stripe
- 
+ ## User interface
 ![Screenshot (34)](https://github.com/AbdullatifAladwan/BookShop/assets/111656271/fd6b4a3c-79b1-4249-b3c7-4688a68c8020)
 ![Screenshot (35)](https://github.com/AbdullatifAladwan/BookShop/assets/111656271/581c3a27-966e-40fc-995a-677bf1d25a50)
 ![Screenshot (36)](https://github.com/AbdullatifAladwan/BookShop/assets/111656271/c38a6e4a-8d74-45b2-a39a-2af3c6c6c294)
+
+## Shop interface
 ![Screenshot (37)](https://github.com/AbdullatifAladwan/BookShop/assets/111656271/c2b9ca9c-951c-4885-ae75-1e92af3808ec)
+
+## Blog interface 
 ![Screenshot (38)](https://github.com/AbdullatifAladwan/BookShop/assets/111656271/953343c1-aa96-4dc0-ab46-84cdd3db35df)
+
+## Contact interface
 ![Screenshot (39)](https://github.com/AbdullatifAladwan/BookShop/assets/111656271/3cd6e780-a5ff-4e77-aa8e-314c6c00dac2)
+
+## Order interface
 ![Screenshot (40)](https://github.com/AbdullatifAladwan/BookShop/assets/111656271/c146c861-10f7-4ab0-9716-8c4cf4df4cd3)
+
+## Admin dashbord
 ![Screenshot (41)](https://github.com/AbdullatifAladwan/BookShop/assets/111656271/2bda35c9-5ebf-4487-96ec-8f1452457e4b)
 ![Screenshot (42)](https://github.com/AbdullatifAladwan/BookShop/assets/111656271/66b6d7dd-38cb-4240-99ae-647335d2497b)
 ![Screenshot (43)](https://github.com/AbdullatifAladwan/BookShop/assets/111656271/34fc3717-97b0-4901-95aa-0b2bfe1a6ea8)
 ![Screenshot (44)](https://github.com/AbdullatifAladwan/BookShop/assets/111656271/3a2e26cf-6682-4667-8746-ed13dacb74e7)
+
+## Stripe Payment interface
 ![Screenshot (45)](https://github.com/AbdullatifAladwan/BookShop/assets/111656271/f8928a8b-2f01-47d9-8868-a91db1e41033)
  
