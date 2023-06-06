@@ -1,4 +1,4 @@
-# Book
+
 Book Shop
 =======
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
@@ -10,61 +10,35 @@ Book Shop
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+BookShoop is an online book store built using Laravel PHP framework on the backend and HTML, CSS, jQuery, and Blade templating engine on the frontend. It incorporates the Stripe payment integration to provide a secure and seamless online purchasing experience for book lovers.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Features
+- Book Catalog: Browse and explore a wide range of books across various genres.
+- Book Details and Reviews: Access detailed information about each book, including a synopsis, author details, and user reviews.
+- User Registration and Authentication: Register and authenticate users to enable them to make purchases, post comments, and participate in discussions.
+- Online Purchasing: Securely add books to the cart and complete transactions using the Stripe payment integration.
+- Commenting and Discussion: Engage with fellow readers through comments and discussions on specific books or literary topics.
+- User Profiles: Personalized profiles that showcase user activity, including purchases, comments, and discussions.
+- Admin Dashboard: Efficiently manage the platform by adding/updating books, moderating comments, and tracking sales.
+  
+# Technologies Used
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
->>>>>>> master
+- Backend: Laravel PHP framework
+- Frontend: HTML, CSS, jQuery, Blade templating engine
+- Database: MySQL or other supported database by Laravel
+- Payment Integration: Stripe
+ 
+![Screenshot (34)](https://github.com/AbdullatifAladwan/BookShop/assets/111656271/fd6b4a3c-79b1-4249-b3c7-4688a68c8020)
+![Screenshot (35)](https://github.com/AbdullatifAladwan/BookShop/assets/111656271/581c3a27-966e-40fc-995a-677bf1d25a50)
+![Screenshot (36)](https://github.com/AbdullatifAladwan/BookShop/assets/111656271/c38a6e4a-8d74-45b2-a39a-2af3c6c6c294)
+![Screenshot (37)](https://github.com/AbdullatifAladwan/BookShop/assets/111656271/c2b9ca9c-951c-4885-ae75-1e92af3808ec)
+![Screenshot (38)](https://github.com/AbdullatifAladwan/BookShop/assets/111656271/953343c1-aa96-4dc0-ab46-84cdd3db35df)
+![Screenshot (39)](https://github.com/AbdullatifAladwan/BookShop/assets/111656271/3cd6e780-a5ff-4e77-aa8e-314c6c00dac2)
+![Screenshot (40)](https://github.com/AbdullatifAladwan/BookShop/assets/111656271/c146c861-10f7-4ab0-9716-8c4cf4df4cd3)
+![Screenshot (41)](https://github.com/AbdullatifAladwan/BookShop/assets/111656271/2bda35c9-5ebf-4487-96ec-8f1452457e4b)
+![Screenshot (42)](https://github.com/AbdullatifAladwan/BookShop/assets/111656271/66b6d7dd-38cb-4240-99ae-647335d2497b)
+![Screenshot (43)](https://github.com/AbdullatifAladwan/BookShop/assets/111656271/34fc3717-97b0-4901-95aa-0b2bfe1a6ea8)
+![Screenshot (44)](https://github.com/AbdullatifAladwan/BookShop/assets/111656271/3a2e26cf-6682-4667-8746-ed13dacb74e7)
+![Screenshot (45)](https://github.com/AbdullatifAladwan/BookShop/assets/111656271/f8928a8b-2f01-47d9-8868-a91db1e41033)
+ 
